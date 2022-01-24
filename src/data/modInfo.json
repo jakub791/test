@@ -1,0 +1,21 @@
+{
+	"title": "The Modding Tree X",
+	"id": "tmt-x",
+	"author": "thepaperpilot",
+	"discordName": "The Paper Pilot Community",
+	"discordLink": "https://discord.gg/WzejVAx",
+
+	"versionNumber": "0.0",
+	"versionTitle": "Initial Commit",
+
+	"allowGoBack": false,
+	"allowSmall": false,
+	"defaultDecimalsShown": 2,
+	"useHeader": true,
+	"banner": null,
+	"logo": null,
+	"initialTabs": [ "main", "c" ],
+
+	"maxTickLength": 3600,
+	"offlineLimit": 1
+}
